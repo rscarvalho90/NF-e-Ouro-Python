@@ -1,0 +1,4 @@
+requests==2.29.0
+cryptography==39.0.1
+signxml==2.6.0
+lxml~=4.9.2
