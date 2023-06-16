@@ -11,6 +11,6 @@ Versões distintas da 3.2.0 e 2.6.0 não foram testadas. Para implementações d
 
 ## Uso
 
-A [classe](src/model/NotaOuroCliente.py) que reprenta o cliente retorna apenas a resposta HTTP às requisições.
+A [classe](src/model/NotaOuroCliente.py) que representa o cliente retorna apenas a resposta HTTP às requisições.
 O tratamento das respostas deve ser realizado na implementação do cliente pelos usuários.
 Os exemplos de respostas podem ser encontrados no [*Swagger*](https://hom-nfoe.estaleiro.serpro.gov.br/API/swagger/index.html) da API.
