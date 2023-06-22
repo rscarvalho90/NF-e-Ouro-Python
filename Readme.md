@@ -13,4 +13,10 @@ Versões distintas da 3.2.0 e 2.6.0 não foram testadas. Para implementações d
 
 A [classe](src/model/NotaOuroCliente.py) que representa o cliente retorna apenas a resposta HTTP às requisições.
 O tratamento das respostas deve ser realizado na implementação do cliente pelos usuários.
-Os exemplos de respostas podem ser encontrados no [*Swagger*](https://hom-nfoe.estaleiro.serpro.gov.br/API/swagger/index.html) da API.
+Os exemplos de respostas podem ser encontrados no [*Swagger*](https://hom-nfoe.estaleiro.serpro.gov.br/API/swagger/index.html) da API. </br></br>
+Exemplos de uso encontram-se na classe de [Testes](test/NotaOuroClienteExemplo.py).
+
+## Clientes em outras linguagens
+
+O cliente em Java 17 pode ser encontrado em: </br>
+[https://github.com/rscarvalho90/NF-e-Ouro-Java](https://github.com/rscarvalho90/NF-e-Ouro-Java)
