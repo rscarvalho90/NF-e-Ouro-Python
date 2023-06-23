@@ -18,5 +18,8 @@ Exemplos de uso encontram-se na classe de [Testes](test/NotaOuroClienteExemplo.p
 
 ## Clientes em outras linguagens
 
-O cliente em Java 17 pode ser encontrado em: </br>
+O cliente em Java pode ser encontrado em: </br>
 [https://github.com/rscarvalho90/NF-e-Ouro-Java](https://github.com/rscarvalho90/NF-e-Ouro-Java)
+
+O cliente em Node.js (TypeScript) pode ser encontrado em: </br>
+[https://github.com/rscarvalho90/NF-e-Ouro-Node.js](https://github.com/rscarvalho90/NF-e-Ouro-Node.js)
